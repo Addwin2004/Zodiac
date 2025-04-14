@@ -1,7 +1,7 @@
 # Zodiac
 AI PHISHING EMAIL DETECTOR
 
-
+Built using Flask and Google’s Gemini API, this tool can analyze any email and determine if it's a phishing attempt.
 
 ![web overview](https://github.com/user-attachments/assets/caac6c64-7a28-4720-a39b-211f125dc99e)
 
